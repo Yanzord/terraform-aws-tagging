@@ -1,0 +1,14 @@
+#  Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
+
+# Go and dep files
+*.lock
+*.toml
+vendor
